@@ -14,7 +14,7 @@ function App() {
       <img src={logo} className="App-logo" alt="logo" style={{ width: '130px', height: '130px' }} />
       </div>
       <input type="file" name="" id="" />
-      <div class="images">
+      <div className="images">
         <h1>All images downloaded from db</h1>
       </div>
     </div>
